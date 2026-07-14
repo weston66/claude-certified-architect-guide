@@ -1,3 +1,5 @@
+<img src="assets/badge.png" alt="Claude Certified Architect Foundations badge" width="160">
+
 # Claude Certified Architect — Study Guide
 
 Study notes, a real post-exam gap analysis, and a seed prompt for training a Claude instance to coach someone through the **Claude Certified Architect Foundations** exam (exam code CCAR-F).
